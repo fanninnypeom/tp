@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "gen_lstm_train.py", line 16, in <module>
+    lines = f.readlines()
+  File "/home/wuning/anaconda3/lib/python3.6/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+invalid value encountered in true_divide
+----
+invalid value encountered in true_divide
+----

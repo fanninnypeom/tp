@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintArgs": [
+        "--disable-msg=C0103"
+    ],
+    "editor.fontFamily": "'Consolas', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "python.pythonPath": "/home/wuning/anaconda3/bin/python",
+}
